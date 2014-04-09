@@ -1,0 +1,25 @@
+{
+  "name": "doudou",
+  "version": "0.0.1",
+  "description": "Comforting assets management",
+  "main": "lib/index.js",
+  "bin": "./cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeanSebTr/doudou.git"
+  },
+  "keywords": [
+    "web",
+    "assets"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanSebTr/doudou/issues"
+  },
+  "homepage": "https://github.com/JeanSebTr/doudou",
+  "dependencies": {
+    "tmp": "0.0.23",
+    "yargs": "1.2.1"
+  }
+}
